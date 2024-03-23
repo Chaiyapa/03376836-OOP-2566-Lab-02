@@ -142,3 +142,32 @@ __หมายเหตุ__
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
 ![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/faf75c2e-dbba-43eb-8b85-1d248732f185)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/ebb530e5-20f0-4a5b-a463-c6f840f20285)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/15b16d7c-d953-4cde-82b4-5884ebc2f309)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/76cc7ca0-b22d-4833-9230-2bdf60f35478)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/191a871e-988b-497d-bd98-e29f744586a6)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/77ac7085-7f41-4373-b0e0-be3ecc48acb9)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/8bd1012b-cac2-4148-bbe3-14727f00a9e1)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/482f558e-ea15-42bf-987d-c68d70f7b539)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/86b1fec7-61b3-4025-80dd-01f004f2f9df)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/d8ca23bd-c586-4551-a7e0-2e4cf9b6ca9d)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/260342ef-524b-4638-a1e4-85f44ffb83df)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/55c36524-94c2-4d57-89fb-7fb225fc6f18)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/32b5a157-5e9a-4662-ae63-cb5cde55cdbc)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/6ea8c884-df80-4ca8-8411-15e97f182ebb)
+
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/14423851-3a09-4e5c-ad12-ee9802f22449)
+
