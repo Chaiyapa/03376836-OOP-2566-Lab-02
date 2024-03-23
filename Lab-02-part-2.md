@@ -47,3 +47,6 @@ Console.WriteLine("=============================================================
 ```
 
 ![](./Pictures/Lab5_2_Pic1.png)
+
+แก้ไข
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/d36e794f-2deb-4a9a-9c02-3290eb9390c1)
