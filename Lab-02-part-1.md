@@ -141,3 +141,4 @@ __หมายเหตุ__
 
 เขียนโค้ด plantuml สำหรับ type ชนิดอื่นๆ โดยใช้วิธีเดียวกันกับขั้นตอนที่ 3  เพื่อสร้าง diagram สำหรับ predefined type ทุกชนิด
 
+![image](https://github.com/Chaiyapa/03376836-OOP-2566-Lab-02/assets/144195729/faf75c2e-dbba-43eb-8b85-1d248732f185)
